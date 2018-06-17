@@ -17,7 +17,7 @@ baseurl: ""
 title: Just a SandBox - Gil Abir Cavalero
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: My little piece of SandBox in the vast dune
 
 # --- Navigation bar options --- #
 
@@ -73,12 +73,12 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
+  facebook: gil
   github: gil2abir
-  twitter: daattali
+  twitter: gil
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+#  linkedin: https://www.linkedin.com/in/gil-abir-cavalero-54729451/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
